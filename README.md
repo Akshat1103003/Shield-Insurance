@@ -1,7 +1,8 @@
 # Shield Insurance - Insights Dashboard
 ------
-## Link to Live Dashboard
-[Live Dashboard 📊 ](https://app.powerbi.com/view?r=eyJrIjoiZWU3NTM1OGQtOGY3NC00MDRjLThlYWMtOTViNTdjZTBhYzgyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=1380148000e28cc117db)
+
+### Link to [Live Dashboard 📊 ](https://app.powerbi.com/view?r=eyJrIjoiZWU3NTM1OGQtOGY3NC00MDRjLThlYWMtOTViNTdjZTBhYzgyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=1380148000e28cc117db)
+
 ----
 ## Overview of the Project :
 - This project analyzes sales and customer trends for **Shield Insurance**, helping stakeholders make informed business decisions.  
