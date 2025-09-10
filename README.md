@@ -4,7 +4,7 @@
 ### Link to [Live Dashboard 📊 ](https://app.powerbi.com/view?r=eyJrIjoiZWU3NTM1OGQtOGY3NC00MDRjLThlYWMtOTViNTdjZTBhYzgyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=1380148000e28cc117db)
 
 ----
-### Prblem Statement & Overview :
+### Problem Statement & Overview :
 Customer and Revenue Analysis for Strategic Business Insights
 The objective of this pilot project is to gain a comprehensive understanding of our customer base and revenue generation patterns to drive data-informed business decisions. The focus will be on tracking key metrics and uncovering trends that can help improve performance and shape future policies.
 
